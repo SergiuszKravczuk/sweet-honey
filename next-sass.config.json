@@ -1,0 +1,6 @@
+{
+    "sassOptions": {
+      "includePaths": ["styles"]
+    }
+  }
+  
